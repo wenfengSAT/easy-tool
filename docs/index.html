@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="coding-interview">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="./css/vue.css">
+  <link rel="stylesheet" href="./docs/css/vue.css">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png?v=5.1.4">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png?v=5.1.4">
 </head>
@@ -26,19 +26,19 @@
 	  subMaxLevel: 4,
 	  mergeNavbar: true,
       search: [
-        '/',
-        '/docs/clean-code',
-        '/docs/coding-interview',
-        '/docs/effective-coding',
-        '/docs/effective-java',
-        '/docs/git-commit-rule',
-        '/docs/online-tools',
-        '/docs/sql-common',
-        '/docs/ui-common',
-		'/docs/wechat-weapp'
+        '/docs',
+        '/docs/docs/clean-code',
+        '/docs/docs/coding-interview',
+        '/docs/docs/effective-coding',
+        '/docs/docs/effective-java',
+        '/docs/docs/git-commit-rule',
+        '/docs/docs/online-tools',
+        '/docs/docs/sql-common',
+        '/docs/docs/ui-common',
+		'/docs/docs/wechat-weapp'
       ],
 	  alias: {
-		'/.*/_sidebar.md': '/_sidebar.md'
+		'/.*/docs/_sidebar.md': '/docs/_sidebar.md'
 	  },
       plugins: [
         function (hook) {
@@ -57,15 +57,15 @@
     }
     
   </script>
-  <script src="./js/docsify.min.js"></script>
-  <script src="./js/prism-c.min.js"></script>
-  <script src="./js/prism-bash.min.js"></script>
-  <script src="./js/prism-cpp.min.js"></script>
-  <script src="./js/prism-java.min.js"></script>
-  <script src="./js/prism-python.min.js"></script>
-  <script src="./js/docsify-copy-code.min.js"></script>
-  <script src="./js/search.js"></script>
-  <script src="./js/emoji.js"></script>
-  <script src="./js/zoom-image.js"></script>
+  <script src="./docs/js/docsify.min.js"></script>
+  <script src="./docs/js/prism-c.min.js"></script>
+  <script src="./docs/js/prism-bash.min.js"></script>
+  <script src="./docs/js/prism-cpp.min.js"></script>
+  <script src="./docs/js/prism-java.min.js"></script>
+  <script src="./docs/js/prism-python.min.js"></script>
+  <script src="./docs/js/docsify-copy-code.min.js"></script>
+  <script src="./docs/js/search.js"></script>
+  <script src="./docs/js/emoji.js"></script>
+  <script src="./docs/js/zoom-image.js"></script>
 </body>
 </html>
