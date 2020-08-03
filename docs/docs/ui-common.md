@@ -1,6 +1,6 @@
 <h1 align="center">wenfengSAT-UI的简单介绍</h1>
 
-本文主要是[wenfengSAT-UI](https://github.com/wenfengSAT/easy-tool)的简单介绍。
+本文主要是[wenfengSAT-UI](https://github.com/wenfengSAT/wenfengSAT-UI)的简单介绍。
 
 ```
 wenfengSAT-UI  
