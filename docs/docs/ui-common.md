@@ -51,7 +51,7 @@ wenfengSAT-UI
 │       └── ...                          
 ```
 
-### easyUI前端模板
+### EasyUI前端模板
 
 #### easyui-super-theme
 <img src="./docs/images/ui/1596025898(1).jpg" width="350" height="200" alt="图片描述文字"/>
@@ -139,5 +139,97 @@ wenfengSAT-UI
 
 ##### 大屏音乐
 
-<img src="./docs/images/ui/1596803341(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1596803341(1).png" width="350" height="200" alt="图片描述文字"/>
+
+### LayUI前端模板
+
+#### BeginnerAdmin
+
+<img src="./docs/images/ui/1599824782(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599824861(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599824886(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### BlogHtTemplate
+
+<img src="./docs/images/ui/1599824941(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599824990(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825017(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### blogtemplet
+
+<img src="./docs/images/ui/1599825065(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825098(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825115(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825141(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825162(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### larrycms
+
+<img src="./docs/images/ui/1599825219(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825193(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825274(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825298(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### layUIDemo
+
+<img src="./docs/images/ui/1599825380(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825347(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### layuiQianDuanMoBan
+
+<img src="./docs/images/ui/1599825432.jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825454(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825483(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825506(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825530(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825570(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### layui-treetable
+
+<img src="./docs/images/ui/1599825606(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825643(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### WeAdmin
+
+<img src="./docs/images/ui/1599825674(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825728(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### WebTpl-admin
+
+<img src="./docs/images/ui/1599825784(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825821(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825855(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+### 常用插件
+
+#### apiDocDemo-快速生成在线文档
+
+<img src="./docs/images/ui/1599825901(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### editTable
+
+<img src="./docs/images/ui/1599825940(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599825980(1).jpg" width="350" height="200" alt="图片描述文字"/>
+<img src="./docs/images/ui/1599826013(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### jQuery评论插件
+
+<img src="./docs/images/ui/1599826062(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### L2Dwidget
+
+<img src="./docs/images/ui/1599826099(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+#### SliderCaptcha
+
+<img src="./docs/images/ui/1599826195(1).jpg" width="350" height="200" alt="图片描述文字"/>
+
+### 精品后台管理系统模板大集合
+
+#### HTML特效模板
+
+#### 白色简洁的bootstrap后台响应式模板
+
+#### 扁平化html5 bootstrap后台页面模板
+
 
